@@ -20,29 +20,23 @@ A comprehensive GitHub repository analysis tool with advanced features like Bus 
 
 ## 🛠️ Installation
 
-1. **Extract the project files**
-   ```bash
-   tar -xzf bug-explorer-complete.tar.gz
-   cd bug-explorer-export
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    npm install
    ```
 
-3. **Set up environment variables** (optional)
+2. **Set up environment variables** (optional)
    ```bash
    # Create .env file
    echo "GITHUB_TOKEN=your_github_token_here" > .env
    ```
 
-4. **Start the development server**
+3. **Start the development server**
    ```bash
    npm run dev
    ```
 
-5. **Open your browser**
+4. **Open your browser**
    - Navigate to `http://localhost:5001`
    - Enter any GitHub repository URL to analyze
 
