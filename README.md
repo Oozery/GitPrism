@@ -43,7 +43,7 @@ A comprehensive GitHub repository analysis tool with advanced features like Bus 
 ## 🏗️ Project Structure
 
 ```
-bug-explorer-export/
+gitprism/
 ├── client/                 # Frontend React application
 │   ├── src/
 │   │   ├── components/     # React components
